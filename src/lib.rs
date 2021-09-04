@@ -1,3 +1,5 @@
+mod parsing;
+
 #[cfg(test)]
 mod tests {
     #[test]
