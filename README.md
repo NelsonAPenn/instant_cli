@@ -2,7 +2,7 @@
 
 Instantly turn a Rust library into a simple CLI app.
 
-## Usage (not yet implemented)
+## Envisioned usage (not yet implemented)
 
 Consider a function from `lib.rs` that you want to be exposed in a CLI interface:
 
@@ -29,7 +29,7 @@ pub fn show(
 
 ...and that's it! No main function!
 
-## P.S.
+P.S.
 
 ```rust
 #[option(short='h')] help // is reserved
